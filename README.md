@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hello, I'm Alper 👋
 
-<!--
-**alperyarenbasi/alperyarenbasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Welcome GIF](simsonprog.gif)
 
-Here are some ideas to get you started:
+Currently studying integrated Master’s degree (bachelor + Master) **Data Engineering** at NTNU. I thrive on blending technical skills with creative problem-solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+With hands-on experience in:
+- **Programming Languages**: Python, Java, C++, HTML, CSS, and JavaScript
+- **Technical Support & Sales**: Gained insights during my recent role at ICE Norge
+
+I’m excited to apply my programming skills and passion for innovation to software development and data-driven projects. 🚀
+More projects upcoming soon.
+
+## Skills
+
+- 💻 **Technical Skills**: 
+  - Python, Java, C++, HTML, CSS, JavaScript
+- 🌟 **Problem Solving**: I love a good challenge!
+- 🎨 **Creative Mindset**: Because coding can be art too!
+
+
+## Let's Connect!
+
+Feel free to reach out:
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/alperyarenbasi)
+- ✉️ [Email](mailto:alperyarenbasi356@gmail.com)
+
+Thanks for stopping by my profile! Let’s code something amazing together! 🎉
