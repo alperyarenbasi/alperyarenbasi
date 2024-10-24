@@ -2,8 +2,6 @@
 
 ![Welcome GIF](simsonprog.gif)
 
-Currently studying integrated Master’s degree (bachelor + Master) **Data Engineering** at NTNU. I thrive on blending technical skills with creative problem-solving.
-
 ## About Me
 
 With hands-on experience in:
