@@ -1,7 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 Summer Intern at Kongsberg Discovery, where I also continue my part-time position as an R&D Intern. My summer project focuses on situational awareness-  the SeaAware Project. I am actively proposing a complete redesign of the system architecture to improve efficiency, encapsulation, and redundancy, as well as implementing new features. <br>
 
+👨‍💻  Control Group Leader for Team 26 @ Ascend NTNU
 
+🌱 I’m currently learning about advanced system design, maritime situational awareness, and leadership skills in engineering teams.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alperyarenbasi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alper.yar@outlook.com) 
 
